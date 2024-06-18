@@ -64,7 +64,7 @@ This project provides a script to download a YouTube video, Read its transcript,
 
    Example `transcript.txt`:
 
-   ```text
+   ```
    A Friendly Introduction to Machine Learning - YouTube
    (00:01) Hi and welcome to the machine learning course
    (00:35) machine learning is about...
