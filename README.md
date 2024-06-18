@@ -1,7 +1,4 @@
-Sure, here is the complete README file content in Markdown format:
-
-```markdown
-# YouTube Video to Lecture Notes
+## YouTube Video to Lecture Notes
 
 This project provides a script to download a YouTube video, Read its transcript, capture scenes from the video, summarize the transcript using OpenAI's GPT-4, and compile everything into a PDF document. Each page of the PDF contains a scene image, a summary of the transcript for that scene, and the full transcript text.
 
